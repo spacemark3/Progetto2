@@ -1,0 +1,71 @@
+.introduzione {
+  margin-top: 100px;
+  padding: 80px;
+}
+
+.introduzione .text {
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 73px;
+}
+
+.buttons a.btn {
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 24px;
+  color: white;
+  background-color: #263971;
+}
+
+.contenuti {
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.half {
+  background-color: #263971;
+
+}
+
+.contenuti .half {
+  color: white;
+}
+
+.space {
+  color: #263971;
+}
+
+.elementi {
+  margin-top: 50px;
+}
+
+.desc {
+  margin-top: 50px;
+}
+
+.formc {
+  background-color: #263971;
+  color: white;
+}
+section.information .text-information{
+padding:134px 0;
+}
+section.information h5{
+font-size:42px;
+font-weight:700;
+line-height:48px;
+}
+section.information h5{
+font-size:42px;
+font-weight:700;
+line-height:48px;
+}
+section.information p{
+font-size: 18px;
+font-weight:300px;
+line-height:48px;
+padding-top:20px;
+}
+section.information .info-1{
+padding:183px 0;
+}
