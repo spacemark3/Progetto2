@@ -1,0 +1,40 @@
+/* sezione per la navbar */
+
+/*sezione per l'intro */
+.intro{
+    margin-top:50px;
+}
+/* sezione contenuti*/
+.contents{
+    background-color: #263971;
+}
+.contents h1{
+    color:white;
+}
+.contents p{
+    color:white;
+}
+/* sezione articoli recenti*/
+.carousel-item{
+    height:500px;
+}
+/*sezione form e contatti*/
+
+/* sezione footer*/
+footer{
+    background-color: #425ba5;
+    color:white;
+}
+.servizi h2{
+    background-color: #263971;
+    color:white;
+}
+.contatti h2{
+    background-color: #263971;
+    color:white;
+}
+body {
+    overflow-x: hidden; /* Hide horizontal overflow to prevent the scrollbar */
+}
+
+
